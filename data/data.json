@@ -1,0 +1,432 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-02-25T18:48:02Z",
+    "timestamp_areas_base": "2016-02-11T09:13:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+    {
+      "type": "node",
+      "id": 373865648,
+      "lat": 47.4255024,
+      "lon": 9.3764555,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445069299,
+      "lat": 47.4249337,
+      "lon": 9.3749869,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:street": "Neugasse",
+        "amenity": "cafe",
+        "name": "Café Doessegger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445357333,
+      "lat": 47.4262849,
+      "lon": 9.3754030,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Pfund"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445368973,
+      "lat": 47.4328273,
+      "lon": 9.3782718,
+      "tags": {
+        "addr:housename": "Schwyter Uni-Beck",
+        "addr:housenumber": "36",
+        "addr:postcode": "9000",
+        "addr:street": "Dufourstrasse ",
+        "amenity": "cafe",
+        "name": "Schwyter Uni-Beck",
+        "website": "http://www.schwyter.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445420023,
+      "lat": 47.4268922,
+      "lon": 9.3744683,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Eiscafé Gekko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445420343,
+      "lat": 47.4245145,
+      "lon": 9.3799102,
+      "tags": {
+        "amenity": "cafe",
+        "name": "da Mina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445470825,
+      "lat": 47.4241024,
+      "lon": 9.3761164,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Pelikan",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445472549,
+      "lat": 47.4242534,
+      "lon": 9.3755757,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Roggwiler"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445473215,
+      "lat": 47.4242941,
+      "lon": 9.3752924,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Beck-Beck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616127630,
+      "lat": 47.4269441,
+      "lon": 9.3758226,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Gschwend",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 904185713,
+      "lat": 47.4266299,
+      "lon": 9.3823719,
+      "tags": {
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "43",
+        "addr:postcode": "9000",
+        "addr:street": "Rorschacherstrasse",
+        "amenity": "cafe",
+        "name": "Scheiwiller Brocki & Cafe Bar",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 911971437,
+      "lat": 47.4317199,
+      "lon": 9.3745076,
+      "tags": {
+        "amenity": "cafe",
+        "name": "HSG Nebencafeteria A",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 911971441,
+      "lat": 47.4323829,
+      "lon": 9.3746683,
+      "tags": {
+        "amenity": "cafe",
+        "name": "HSG Nebencafeteria B",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 960312959,
+      "lat": 47.4233122,
+      "lon": 9.3698442,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1078598057,
+      "lat": 47.4236705,
+      "lon": 9.3409564,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1245464099,
+      "lat": 47.4242388,
+      "lon": 9.3766652,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Confiserie Scherrer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1728880153,
+      "lat": 47.4338171,
+      "lon": 9.4323523,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Schaugenbädli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1929722478,
+      "lat": 47.4225422,
+      "lon": 9.3772188,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2386979801,
+      "lat": 47.4232822,
+      "lon": 9.3758892,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:street": "Gallusstrasse",
+        "alt_name": "Chocolaterie am Klosterplatz",
+        "amenity": "cafe",
+        "name": "Chocolaterie",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2452589730,
+      "lat": 47.4227849,
+      "lon": 9.3672779,
+      "tags": {
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "59",
+        "addr:postcode": "9001",
+        "addr:street": "Rosenbergstrasse",
+        "amenity": "cafe",
+        "name": "Cafeteria Gleis 8",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.fhsg.ch/fhs.nsf/de/studium-campusleben-gastronomie",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2459053278,
+      "lat": 47.4250714,
+      "lon": 9.3835768,
+      "tags": {
+        "addr:city": "St.Gallen",
+        "addr:housenumber": "77",
+        "addr:postcode": "9000",
+        "addr:street": "Linsebühlstrasse",
+        "amenity": "cafe",
+        "name": "kaffeehaus",
+        "phone": "+49715343424",
+        "website": "http://www.kaffeehaus.sg",
+        "wheelchair": "yes",
+        "wheelchair:description": "kein beh. WC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3297797201,
+      "lat": 47.4275464,
+      "lon": 9.3774951,
+      "tags": {
+        "amenity": "cafe",
+        "email": "home@oya-bar.ch",
+        "name": "Øya Bar Kafé Klub",
+        "opening_hours": "Tu-Fr 09:00-24:00; Sa 00:00-01:00,09:00-24:00; Su 00:00-01:00",
+        "phone": "+41 71 2442343",
+        "website": "http://oya-bar.ch/index.php",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 109214198,
+      "nodes": [
+        1250957350,
+        1250957780,
+        1250958150,
+        1250957223,
+        1250957808,
+        1250956883,
+        1250957350
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Waldgut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 178129724,
+      "nodes": [
+        1885052415,
+        1885052414,
+        1885052413,
+        1885052416,
+        1885052415
+      ],
+      "tags": {
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "89",
+        "addr:postcode": "9010",
+        "addr:street": "Guisanstrasse",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Gschwend",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 309206841,
+      "nodes": [
+        3145373107,
+        3145373108,
+        3145373109,
+        3145373110,
+        3145373111,
+        3145373112,
+        3145373107
+      ],
+      "tags": {
+        "addr:street": "Lehnstrasse",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Bisou",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3145373107,
+      "lat": 47.4068192,
+      "lon": 9.3349610
+    },
+    {
+      "type": "node",
+      "id": 3145373108,
+      "lat": 47.4067074,
+      "lon": 9.3349788
+    },
+    {
+      "type": "node",
+      "id": 3145373109,
+      "lat": 47.4067317,
+      "lon": 9.3353131
+    },
+    {
+      "type": "node",
+      "id": 3145373110,
+      "lat": 47.4068642,
+      "lon": 9.3352921
+    },
+    {
+      "type": "node",
+      "id": 3145373111,
+      "lat": 47.4068534,
+      "lon": 9.3351435
+    },
+    {
+      "type": "node",
+      "id": 3145373112,
+      "lat": 47.4068328,
+      "lon": 9.3351468
+    },
+    {
+      "type": "node",
+      "id": 1250956883,
+      "lat": 47.4358945,
+      "lon": 9.3757963
+    },
+    {
+      "type": "node",
+      "id": 1250957223,
+      "lat": 47.4359399,
+      "lon": 9.3757158
+    },
+    {
+      "type": "node",
+      "id": 1250957350,
+      "lat": 47.4358692,
+      "lon": 9.3758726
+    },
+    {
+      "type": "node",
+      "id": 1250957780,
+      "lat": 47.4357748,
+      "lon": 9.3758042
+    },
+    {
+      "type": "node",
+      "id": 1250957808,
+      "lat": 47.4359096,
+      "lon": 9.3758073
+    },
+    {
+      "type": "node",
+      "id": 1250958150,
+      "lat": 47.4358305,
+      "lon": 9.3756364
+    },
+    {
+      "type": "node",
+      "id": 1885052413,
+      "lat": 47.4390140,
+      "lon": 9.3792529
+    },
+    {
+      "type": "node",
+      "id": 1885052414,
+      "lat": 47.4391079,
+      "lon": 9.3793508
+    },
+    {
+      "type": "node",
+      "id": 1885052415,
+      "lat": 47.4391790,
+      "lon": 9.3792093
+    },
+    {
+      "type": "node",
+      "id": 1885052416,
+      "lat": 47.4390843,
+      "lon": 9.3791039
+    }
+
+  ]
+}
