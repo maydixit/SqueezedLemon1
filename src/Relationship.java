@@ -9,7 +9,7 @@ public class Relationship {
     int id;
     Vector<String> mLabels;
     Map<String, String> mProperties;
-    Vector<Integer> mNodes;
+    public Vector<Integer> mNodes;
     Directionality mDirectionality;
 
     public Relationship(int i, String label) {
@@ -60,5 +60,9 @@ public class Relationship {
         System.out.println(getLabels().toString());
         System.out.println(getProperties().toString());
 
+    }
+
+    public Vector<Integer> getNodes() {
+        return mNodes;
     }
 }

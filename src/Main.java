@@ -3,7 +3,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
 import java.io.FileReader;
-import java.util.Vector;
 
 /**
  * Created by May on 2/25/16.
@@ -11,7 +10,7 @@ import java.util.Vector;
 public class Main {
     public static void main(String[] args){
 
-        Graph graph = new Graph();
+        GraphCdixit graph = new GraphCdixit();
         Node cityNode = new Node(0);
         cityNode.setLabel("City");
         cityNode.setProperty("name", "St.Gallen");
@@ -50,23 +49,11 @@ public class Main {
 
 
             }
-
+            graph.display();
         }
         catch(Exception e){
             System.out.println(e.toString());
         }
-
-        displayGraph(graph);
     }
 
-    private static void displayGraph(Graph graph) {
-        Vector<Node> nodes = graph.getNodes();
-        for (Node node: nodes){
-            node.printAll();
-        }
-        for (Relationship r: graph.getRelationships()){
-            r.printAll();
-        }
-
-    }
 }
